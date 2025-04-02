@@ -12,9 +12,20 @@ namespace Forms_assignment_2
 {
     public partial class FormCalculations : Form
     {
+        
         public FormCalculations()
         {
             InitializeComponent();
+        }
+
+        private void btn3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblAnswer_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
